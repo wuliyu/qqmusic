@@ -1,2 +1,4 @@
-# qqmusic
-用express代理了qq音乐的几个接口，可用于获取qq音乐数据
+#使用nodejs的express4框架搭建的api接口，很好用
+
+
+
